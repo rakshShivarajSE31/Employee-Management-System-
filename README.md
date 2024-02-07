@@ -19,5 +19,4 @@ Client-side:
 8.	Node JS
 9.	NPM
 
-![image](https://github.com/rakshShivarajSE31/Employee-Management-System-using-SpringBoot-Java__React-JS/assets/142454108/56ebf769-e598-4c6c-8f50-9662c107cfaa)
  
