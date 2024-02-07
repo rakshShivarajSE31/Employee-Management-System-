@@ -1,5 +1,5 @@
 # Employee-Management-System-
-
+to view the project, open emsDocument.pdf file
 Server-side:
 1.	Java 17+
 2.	Spring Boot 3+
